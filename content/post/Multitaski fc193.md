@@ -28,13 +28,13 @@ We will create on the paper a table that consists of three columns and ten rows:
 
 Firstly, we will start the timer and write the numbers, Roman numerals, and Latin letters **across columns** as can be seen in the image (*scenario 1*) below.
 
-![Scenario 1: Across columns](/Users/eda.oezdemir/Downloads/edadenizblog/themes/cactus-plus/static/images/across_rows.png)
+![Scenario 1: Across columns](content/post/image/across_column.png)
 
 Scenario 1: Across columns
 
 Now, we will do the same thing, but this time by writing down **across rows** *(scenario 2).*
 
-![Scenario 2: Across rows](/post/images/across_rows.png)
+![Scenario 2: Across rows](content/post/image/across_rows.png)
 
 Scenario 2: Across rows
 
