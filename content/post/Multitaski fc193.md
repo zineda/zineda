@@ -26,19 +26,19 @@ Ready?
 
 We will create on the paper a table that consists of three columns and ten rows: numbers from 1-10, Roman numerals, and Latin letters.
 
-Firstly, we will start the timer and write the numbers, Roman numerals, and Latin letters **across columns** as can be seen in the image (*scenario 1*) below. 
+Firstly, we will start the timer and write the numbers, Roman numerals, and Latin letters **across columns** as can be seen in the image (*scenario 1*) below.
 
-![Scenario 1: Across columns](/post/images/across_columns.png)
+![Scenario 1: Across columns](/Users/eda.oezdemir/Downloads/edadenizblog/themes/cactus-plus/static/images/across_rows.png)
 
 Scenario 1: Across columns
 
-Now, we will do the same thing, but this time by writing down **across rows** *(scenario 2).* 
+Now, we will do the same thing, but this time by writing down **across rows** *(scenario 2).*
 
 ![Scenario 2: Across rows](/post/images/across_rows.png)
 
 Scenario 2: Across rows
 
-How much time did that take? To be honest, I've never met a person where the second scenario took less than the first. The lesson? 
+How much time did that take? To be honest, I've never met a person where the second scenario took less than the first. The lesson?
 
 
 👌 Doing one thing at a time helps you concentrate more and get more done in less time.
