@@ -28,7 +28,7 @@ We will create on the paper a table that consists of three columns and ten rows:
 
 Firstly, we will start the timer and write the numbers, Roman numerals, and Latin letters **across columns** as can be seen in the image (*scenario 1*) below.
 
-![Scenario 1: Across columns](https://i.pinimg.com/originals/d3/02/e4/d302e4d06d9afae957b686985215270a.jpg)
+![Scenario 1: Across columns](/across_column.png)
 
 Scenario 1: Across columns
 
